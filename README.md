@@ -1,2 +1,4 @@
 # Maze_For_FPGA_CPU
-the final project of Computer Organization
+很早之前写的实验，作为组原最后的实验设计。
+大致思路是利用已经实现的MIPS-CPU，通过写出汇编形式的BFS算法，找出给定迷宫的最短路径。
+
